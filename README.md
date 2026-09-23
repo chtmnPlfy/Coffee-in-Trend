@@ -23,7 +23,6 @@
 <a id="q1"></a>
 ### ใครดื่มกาแฟเยอะที่สุดในโลก (ปริมาณดิบ & ต่อหัว)?
 **[GRAPH: ท็อป 10 ประเทศที่บริโภคกาแฟมากที่สุด ปี 2019 ปริมาณดิบ รวมทั้งประเทศผู้ปลูกและผู้นำเข้า]**
-![ใครดื่มกาแฟเยอะที่สุดในโลก](figures/top_consumers_raw_volume.png)
 
 <div align="center">
 <img src="figures and images/top5_total_vs_percapita_consumption.png">
