@@ -48,7 +48,7 @@ fig_: การเปรียบเทียบปริมาณการบ�
 ### การค้ากาแฟโลก: ท็อป 5 ผู้ส่งออก/นำเข้า มีใครบ้าง?
 <div align="center">
 
-<img src="figures and images/top5_exporters_vs_importers_2024_2025.png" Width="700" Height="500">
+<img src="figures and images/top5_exporters_vs_importers_2024_2025.png">
 
 <p><i>Figure x.  </i></p>
 </div>
