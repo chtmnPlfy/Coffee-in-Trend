@@ -27,9 +27,9 @@
 <div align="center">
 <img src="figures and images/top5_total_vs_percapita_consumption.png">
 
-<p>
+<p><i>
 fig_: การเปรียบเทียบปริมาณการบริโภคเมล็ดกาแฟดิบรวม (Total Volume, หน่วยล้านตัน) และต่อหัวประชากร (Per Capita) 5 อันดับแรกของโลก ในช่วงปี 2024/2025
-</p>
+</i></p>
 </div>
 
 
