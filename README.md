@@ -26,7 +26,7 @@
 ![ใครดื่มกาแฟเยอะที่สุดในโลก](figures/top_consumers_raw_volume.png)
 
 <div align="center">
-<img src="figures and images/top5_total_vs_percapita_consumption.png" Width="800" Height="500">
+<img src="figures and images/top5_total_vs_percapita_consumption.png" Width="900" Height="500">
 
 <p>
 fig._ 5 อันดับประเทศที่บริโภคเมล็ดกาแฟดิบ (Green Coffee) มากที่สุดในโลก ปีการตลาด 2024/2025 (หน่วย: ล้านตัน)
