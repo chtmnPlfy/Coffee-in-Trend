@@ -130,7 +130,7 @@
 
 ---
 
-## ข้อมูลที่ควรมีเพิ่ม (สรุปรวมทุกคำถาม)
+## ข้อมูลที่ควรมีเพิ่ม (สรุปรวมทุกคำถาม)  --- ต้องมาแก้!!!
 - ~~DATA NEEDED: จำนวนประชากรรายปีของแต่ละประเทศ~~ (คำถามที่ 1) — **ได้แล้ว** จาก World Bank (World Development Indicators, `world_population.csv`) นำมาคำนวณการบริโภคต่อหัวสำเร็จทั้งในคำถามที่ 1 และคำถามที่ 3 (หมายเหตุ: การ join ต้องแปลงชื่อประเทศบางส่วน เช่น `United States of America` → `United States`, `Viet Nam` → ตรงกับ World Bank อยู่แล้ว, `Venezuela` → `Venezuela, RB` — ดูรายการเต็มใน `src/generate_charts.py`)
 - ***DATA NEEDED: ราคากาแฟโลกช่วงปี 2000-2002*** (คำถามที่ 3) — เพื่อตรวจสอบว่าการร่วงของส่งออกไทยเกี่ยวข้องกับวิกฤตราคากาแฟโลกหรือไม่
 - ***DATA NEEDED: จำนวนสาขาร้านกาแฟรายปี (ไม่ใช่แค่ปัจจุบัน)*** (คำถามที่ 5) — เพื่อดูว่าการขยายสาขาเร่งตัวสอดคล้องกับจุดตัดปี 2011 หรือไม่
@@ -142,22 +142,7 @@
 
 ---
 
-## เครื่องมือที่ใช้
-Python (pandas, numpy) สำหรับทำความสะอาดและวิเคราะห์ข้อมูล, Seaborn/Matplotlib สำหรับกราฟทั้งหมดในรายงานนี้
-
-## โครงสร้างโปรเจกต์
-```
-├── data/
-│   ├── raw/                        # ไฟล์ CSV ต้นฉบับจาก ICO
-│   └── processed/                  # ico_coffee_long.csv (tidy long-format)
-├── figures/                         # กราฟทั้งหมดที่ใช้ในรายงานนี้
-├── src/
-│   ├── clean_ico_coffee_data.py    # สคริปต์ทำความสะอาดและ impute ข้อมูล
-│   └── generate_charts.py          # สคริปต์สร้างกราฟทั้งหมด (Seaborn)
-└── README.md
-```
-
-## แหล่งอ้างอิง
+## แหล่งอ้างอิง --- ต้องมาแก้!!!
 - International Coffee Organization (ICO) — [https://www.ico.org](https://www.ico.org)
 - *[ระบุลิงก์ Kaggle dataset ที่ใช้จริง]*
 - World Bank — World Development Indicators, Population, total (`data/world_population.csv`)
