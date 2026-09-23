@@ -135,6 +135,11 @@ fig_: การเปรียบเทียบปริมาณการบ�
 ### อะไรคือแรงขับเคลื่อนเบื้องหลังกระแสกาแฟไทย?
 คำถามสุดท้าย — ข้อมูล ICO บอกเราว่า "อะไร" เกิดขึ้น (จุดตัดปี 2011) แต่ไม่ได้บอกว่า "ทำไม" จึงต้องอาศัยการสืบค้นบริบทประกอบ
 
+<div align="center">
+<img src="figures and images/thailand_all_metrics_Blurredexport.png">
+<p><i>Figure x. </i></p>
+</div>
+figures and images/thailand_all_metrics_Blurredexport.png
 **[GRAPH: เส้นเวลาเหตุการณ์สำคัญของอุตสาหกรรมกาแฟไทย 1969-2015]**
 ![เส้นเวลากระแสกาแฟไทย](figures/thailand_timeline.png)
 
