@@ -13,15 +13,14 @@
 
 ชุดข้อมูลจาก **International Coffee Organization (ICO)** รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
 
-- ผลผลิต (production)
-- การบริโภคในประเทศ (domestic consumption)
-- การส่งออก (export)
-- การนำเข้า (import)
-- การส่งออกต่อ (re-export)
-- การบริโภคของประเทศผู้นำเข้า (importer consumption)
-- สต๊อกกาแฟดิบคงคลัง (green coffee inventory)
-
 https://www.kaggle.com/datasets/michals22/coffee-dataset
+- ผลผลิต (Production)
+- การบริโภคในประเทศ (Domestic consumption)
+- การส่งออก (Export)
+- การนำเข้า (Import)
+- การส่งออกต่อ (Re-Export)
+- การบริโภคของประเทศผู้นำเข้า (Importer Consumption)
+- สต๊อกกาแฟดิบคงคลัง (Green Coffee Inventory)
 
 **รายละเอียด:**
 - ช่วงเวลา: ปี 1990-2019/20 (การเก็บข้อมูลนี้เป็นข้อมูลแบบคร่อมปี เช่น ข้อมูลในปี 1990 จะเป็นข้อมูลของช่วงปี 1990-1991)
