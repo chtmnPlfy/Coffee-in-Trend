@@ -233,7 +233,7 @@ fig_: การเปรียบเทียบปริมาณการบ�
 ### โอกาสธุรกิจสำหรับคนไทย
 
 <div align="center">
-<img src="figures and images/thailand_export_import_trend.png">
+<img src="figures and images/thailand_export_import_trend_2018_2024.png">
 <p><i>Figure x. </i></p>
 </div>
 
