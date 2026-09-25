@@ -283,9 +283,11 @@ https://www.brandage.com/article/4241
 https://www.brandage.com/article/40901
 https://www.instagram.com/p/Dbu1jm8EnXA/
 https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
+
 https://art4d.com/2023/09/cafe-amazon-unpacking-the-design
 https://thestandard.co/coffee-chains-thailand-starbucks-amazon-punthai/
 https://www.forbesthailand.com/news/marketing/starbucks-aims-to-reach-600-stores-in-thailand-in-early-2027
+
 https://www.starbucks.co.th/th/find-a-store
 https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
 
