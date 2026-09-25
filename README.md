@@ -135,7 +135,7 @@ fig_: การเปรียบเทียบปริมาณการบ�
 - ตลาดกาแฟไทยมีมูลค่ารวมกว่า **3,185 ล้านดอลลาร์สหรัฐ** (ปี 2022) หรือเฉลี่ย **45.45 ดอลลาร์ต่อคน**
 
 <div align="center">
-<img src="figures and images/store_counts_combined.png" Width="900" Height="600">
+<img src="figures and images/store_counts_combined.png" Width="800" Height="500">
 <p><i>Figure x. </i></p>
 </div>
 
