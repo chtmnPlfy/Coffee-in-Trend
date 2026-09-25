@@ -271,11 +271,24 @@ fig_: การเปรียบเทียบปริมาณการบ�
 
 ## แหล่งอ้างอิง --- ต้องมาแก้!!!
 - International Coffee Organization (ICO) — [https://www.ico.org](https://www.ico.org)
-- *[ระบุลิงก์ Kaggle dataset ที่ใช้จริง]*
 - World Bank — World Development Indicators, Population, total (`data/world_population.csv`)
-- UN Comtrade / World Bank WITS — [ข้อมูลนำเข้ากาแฟไทย HS 090111](https://wits.worldbank.org/trade/comtrade/en/country/THA/year/2023/tradeflow/Imports/partner/ALL/product/090111)
 - Bangkok Post — [Taiwanese coffee chain opens doors in Bangkok](https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok) (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย)
 - Coffee Affection / Statista — สถิติมูลค่าตลาดกาแฟไทยและจำนวนสาขา Café Amazon
+## แหล่งอ้างอิงเพิ่มเติมสำหรับข้อมูลประกอบ ##
+https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
+https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
+https://www.cafe-amazon.com/about-us
+https://www.thebangkokinsight.com/news/business/economics/273287/#google_vignette
+https://www.brandage.com/article/4241
+https://www.brandage.com/article/40901
+https://www.instagram.com/p/Dbu1jm8EnXA/
+https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
+https://art4d.com/2023/09/cafe-amazon-unpacking-the-design
+https://thestandard.co/coffee-chains-thailand-starbucks-amazon-punthai/
+https://www.forbesthailand.com/news/marketing/starbucks-aims-to-reach-600-stores-in-thailand-in-early-2027
+https://www.starbucks.co.th/th/find-a-store
+https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
+
 - *[ระบุลิงก์อ้างอิงอื่น ๆ แบบเต็มก่อนส่งฉบับจริง]*
 
 ## ผู้จัดทำ
