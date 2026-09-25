@@ -81,7 +81,7 @@ https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-import
 
 <a id="q1"></a>
 ### ใครดื่มกาแฟเยอะที่สุดในโลก (ปริมาณดิบ & ต่อหัว)?
-**[GRAPH: ท็อป 10 ประเทศที่บริโภคกาแฟมากที่สุด ปี 2019 ปริมาณดิบ รวมทั้งประเทศผู้ปลูกและผู้นำเข้า]**
+ก่อนอื่นเลยเรามาทำความรู้จักประเทศที่เป็นผู้สนับสนุนหลักในผลิตภัณฑ์กาแฟ 5 อันดับแรกของโลกกัน
 
 <div align="center">
 <img src="figures and images/top5_total_vs_percapita_consumption.png">
