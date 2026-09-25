@@ -45,7 +45,7 @@ https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-import
 
 ### ขั้นตอนการรวมข้อมูล
 - แปลงไฟล์ดิบทั้งหมดจากรูปแบบกว้าง (wide) เป็นรูปแบบยาว (long/tidy format)
-- รวมเป็นตารางหลักตารางเดียว
+- รวมเป็นตารางหลักตารางเดียว (8640 rows)
 - ผสานข้อมูลเสริมเข้ากับตารางหลัก รวมทั้งข้อมูลประชากร โดย join บน `Country + Year` หลังแก้ปัญหาชื่อประเทศไม่ตรงกันระหว่างแหล่งข้อมูลสำหรับบางประเทศ (เช่น ICO ใช้ `"United States of America"` ขณะที่ World Bank ใช้ `"United States"`)
 
 ### เครื่องมือที่ใช้
