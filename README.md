@@ -36,7 +36,7 @@ https://www.kaggle.com/datasets/michals22/coffee-dataset
 https://data.worldbank.org/indicator/SP.POP.TOTL
 
 3. **ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย indexmundi**
-https://www.indexmundi.com/agriculture/
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
 
 ### โครงสร้างการวิเคราะห์
 
