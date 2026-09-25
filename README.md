@@ -9,6 +9,75 @@
 เกิดอะไรขึ้นกับเทรนด์กาแฟโลก ที่ทำให้การแลกเปลี่ยนเมล็ดกาแฟระหว่างประเทศคึกคักขึ้นขนาดนี้? แล้วเรื่องนี้เกี่ยวอะไรกับการบริโภคกาแฟในไทยที่เปลี่ยนไปด้วยหรือเปล่า?
 รายงานนี้ใช้ dataset ของ ICO มาช่วยไขคำตอบ พาไปสำรวจพัฒนาการของตลาดกาแฟโลก ตามหาเทรนด์ที่น่าสนใจ และหวังว่าจะทำให้เราเข้าใจสถานการณ์กาแฟไทยที่กำลังเกิดขึ้นตอนนี้ได้ชัดขึ้น
 
+## ขอบเขตของข้อมูล (Scope of Data)
+
+### แหล่งข้อมูลหลัก
+
+ชุดข้อมูลจาก **International Coffee Organization (ICO)** รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
+
+- ผลผลิต (production)
+- การบริโภคในประเทศ (domestic consumption)
+- การส่งออก (export)
+- การนำเข้า (import)
+- การส่งออกต่อ (re-export)
+- การบริโภคของประเทศผู้นำเข้า (importer consumption)
+- สต๊อกกาแฟดิบคงคลัง (green coffee inventory)
+
+https://www.kaggle.com/datasets/michals22/coffee-dataset
+
+**รายละเอียด:**
+- ช่วงเวลา: ปี 1990–2019/20
+- ครอบคลุม 55 ประเทศผู้ปลูก (Exporting Members) และ 35 ประเทศผู้นำเข้า (Importing Members)
+- หน่วยข้อมูล: กิโลกรัม เทียบเท่ากาแฟดิบ (green coffee equivalent)
+
+### แหล่งข้อมูลเสริม ###
+
+1. **ข้อมูลประชากรจาก World Bank** (1960–2025, 264 ประเทศ) — ใช้คำนวณการบริโภคต่อหัว
+https://data.worldbank.org/indicator/SP.POP.TOTL
+2. **ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย indexmundi**
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+https://www.indexmundi.com/agriculture/?country=us&commodity=green-coffee&graph=bean-imports
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
+https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
+https://ico.org/resources/historical-data-on-the-global-coffee-trade/
+https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
+https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
+
+
+
+### โครงสร้างการวิเคราะห์
+
+- เริ่มจากภาพรวมแนวโน้มระดับโลกครอบคลุมทุกประเทศที่มีข้อมูล
+- เจาะลึกกรณีศึกษาประเทศไทยโดยละเอียด
+- เปรียบเทียบกับฟิลิปปินส์ (รูปแบบคล้ายไทย) และเวียดนาม (การเติบโตที่ต่อเนื่อง) เพื่อวางบริบทเปรียบเทียบในการศึกษา
+- ลองศึกษาปัจจัยที่อาจส่งผลต่อเทรนด์เกี่ยวกับกาแฟของไทย
+- หาความเป็นไปได้ทางธุรกิจจาก gap ที่ยังไม่ถูกเติมเต็ม
+
+---
+
+### การทำความสะอาดข้อมูล
+
+1. **ค่าผิดปกติจากบั๊กค่าล้น** -> พบค่า `-2147483648` (2³¹ ค่าต่ำสุดของเลขจำนวนเต็ม 32-bit) ในข้อมูลส่งออกของบราซิล 3 ปี แปลงเป็นค่าว่าง (NaN) หลังพิสูจน์ด้วยการกระทบยอดเลขคณิตกับผลรวมที่รายงานในไฟล์ต้นฉบับว่าค่าจริงไม่สามารถกู้คืนได้ จากนั้นจึงประมาณค่าทางเลือกจากอัตราส่วนส่งออกต่อผลผลิตในปีใกล้เคียง
+2. **ช่องว่างในชื่อประเทศที่ไม่สม่ำเสมอ** -> แก้ไขด้วยการ strip ช่องว่างหัวท้าย
+3. **รายชื่อประเทศไม่ตรงกันระหว่างไฟล์ฝั่งผู้ปลูกและผู้นำเข้า** -> แก้ไขด้วยการรวมข้อมูลแบบ outer union แทน inner join เพื่อไม่ให้ข้อมูลจริงหายไปโดยไม่ตั้งใจ
+4. **รูปแบบปีไม่สม่ำเสมอ** -> ปีเพาะปลูก (เช่น `"1990/91"`) กับปีปฏิทิน (`"1990"`) ถูกแปลงให้เป็นคอลัมน์ปีแบบจำนวนเต็มรูปแบบเดียวกัน
+
+### ขั้นตอนการรวมข้อมูล
+
+- แปลงไฟล์ดิบทั้งหมดจากรูปแบบกว้าง (wide) เป็นรูปแบบยาว (long/tidy format)
+- รวมเป็นตารางหลักตารางเดียว
+- ผสานข้อมูลเสริมเข้ากับตารางหลัก รวมทั้งข้อมูลประชากร โดย join บน `Country + Year` หลังแก้ปัญหาชื่อประเทศไม่ตรงกันระหว่างแหล่งข้อมูลสำหรับบางประเทศ (เช่น ICO ใช้ `"United States of America"` ขณะที่ World Bank ใช้ `"United States"`)
+
+
+### เครื่องมือและมาตรฐานการตรวจสอบ
+
+- ขั้นตอนการแปลงข้อมูล สร้างกราฟ และตรวจสอบความถูกต้องทั้งหมดเขียนด้วย Python ในรูปแบบ Jupyter/Colab notebook ที่ทำซ้ำได้โดยใช้ pandas สำหรับจัดการข้อมูล และ seaborn/matplotlib สำหรับสร้างกราฟ
+- ทุก notebook ลองรันทดสอบก่อนส่งมอบ เพื่อยืนยันความถูกต้อง
+- ตัวเลขเชิงปริมาณที่ใช้อ้างอิงในกราฟ เช่น สัดส่วนการบริโภคต่อผลผลิต หรืออัตราการบริโภคต่อหัว คำนวณโดยตรงจากข้อมูลที่ผ่านการทำความสะอาดแล้ว ไม่ได้อ้างอิงจากแหล่งข้อมูลรองอื่น
+
 ## คำถามที่จะพาไปหาคำตอบ
 1. [ใครดื่มกาแฟเยอะที่สุดในโลก (ปริมาณดิบ & ต่อหัว)?](#q1)
 2. [การค้ากาแฟโลก: ท็อป 5 ผู้ส่งออก/นำเข้า มีใครบ้าง?](#q2)
