@@ -71,7 +71,7 @@ https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-import
 <div align="center">
 <img src="figures and images/top5_total_vs_percapita_consumption.png">
 <div align="center">
-<p><i>Figure 1. การเปรียบเทียบปริมาณการบริโภคเมล็ดกาแฟดิบรวม (Total Volume, พันล้านกิโลกรัม) และต่อหัวประชากร (Per Capita) 5 อันดับแรกของโลก ในช่วงปี 2024/2025}</i></p>
+<p><i>Figure 1. การเปรียบเทียบปริมาณการบริโภคเมล็ดกาแฟดิบรวม (Total Volume, พันล้านกิโลกรัม) และต่อหัวประชากร (Per Capita) 5 อันดับแรกของโลก ในช่วงปี 2024/2025 </i></p>
 
 
 </div>
