@@ -19,7 +19,7 @@ https://www.kaggle.com/datasets/michals22/coffee-dataset
 - การนำเข้า (Import)
 - การส่งออกต่อ (Re-Export)
 - การบริโภคของประเทศผู้นำเข้า (Importer Consumption)
-- สต๊อกกาแฟดิบคงคลัง (Green Coffee Inventory)
+- สต็อกกาแฟดิบคงคลัง (Green Coffee Inventory)
 
 ### **รายละเอียด:**
 - ช่วงเวลา: ปี 1990-2019/20 (การเก็บข้อมูลนี้เป็นข้อมูลแบบคร่อมปี เช่น ข้อมูลในปี 1990 จะเป็นข้อมูลของช่วงปี 1990-1991)
