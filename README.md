@@ -10,9 +10,7 @@
 
 ### แหล่งข้อมูลหลัก
 
-ชุดข้อมูลจาก **International Coffee Organization (ICO)** รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
-
-https://www.kaggle.com/datasets/michals22/coffee-dataset
+ชุดข้อมูลจาก **[International Coffee Organization (ICO)](https://www.kaggle.com/datasets/michals22/coffee-dataset)** รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
 - ผลผลิต (Production)
 - การบริโภคในประเทศ (Domestic consumption)
 - การส่งออก (Export)
@@ -27,11 +25,8 @@ https://www.kaggle.com/datasets/michals22/coffee-dataset
 - หน่วยข้อมูล: กิโลกรัม เทียบเท่ากาแฟดิบ (Green Coffee Equivalent)
 
 ### แหล่งข้อมูลเสริม
-1. **ข้อมูลประชากรจาก World Bank** (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
-https://data.worldbank.org/indicator/SP.POP.TOTL
-
-3. **ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย IndexMundi**
-https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
+- ข้อมูลประชากรจาก **[World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL)** (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
+- ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย **[IndexMundi](https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports)**
 
 ---
 
