@@ -242,7 +242,6 @@
 - https://coffeebi.com/?p=295687
 - https://www.foodnhotelasia.com/?p=9403
 - https://coffeebi.com/?p=295826
-- https://coffeebi.com/?p=295826
 - https://www.commercenewsagency.com/news/8169
 - https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
 - https://www.forbesthailand.com/news/marketing/thai-specialty-coffee-value-2025
