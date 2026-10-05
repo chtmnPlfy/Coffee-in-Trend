@@ -1,0 +1,666 @@
+Reporter,TradeFlow,ProductCode,Product Description,Year,Partner,Trade Value 1000USD,Quantity,Quantity Unit
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1992,World,14.7,6375,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1992,Brazil,14.7,6375,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1993,World,103.23,25381,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1993,Colombia,65.19,16160,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1993,Papua New Guinea,19.61,5187,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1993,Guatemala,17.34,3812,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1993,United States,1.09,222,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1994,World,12.9,19122,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1994,China,12.3,19078,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1994,Unspecified,0.6,44,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1996,World,3.84,1073,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1996,United States,2.4,832,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1996,Japan,0.83,85,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1996,Germany,0.57,20,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1996,Unspecified,0.04,136,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1997,World,8.28,1467,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1997,Indonesia,5.39,839,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1997,Brazil,2.89,628,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,World,2150.82,1336590,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,Lao PDR,2129.6,1332000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,Colombia,10.37,2312,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,Italy,7.2,742,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,India,2.16,593,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,Singapore,1.48,941,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1998,Unspecified,0,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,World,17.23,3709,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,Colombia,7.15,1562,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,Australia,3.23,1062,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,United States,2.89,453,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,Indonesia,1.46,398,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,United Kingdom,1.28,20,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",1999,Japan,1.22,214,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,World,30.01,6891,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,Singapore,13.86,3000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,Colombia,9.38,2624,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,United States,3.12,769,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,Japan,1.85,38,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2000,Indonesia,1.79,460,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,World,60.74,11097,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Brazil,26.26,7798,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Japan,21.06,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,United States,9.57,2346,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Colombia,1.81,489,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Ethiopia(excludes Eritrea),1.16,239,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Indonesia,0.56,119,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Papua New Guinea,0.26,90,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Philippines,0.03,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2001,Switzerland,0.03,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,World,11.66,3201,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,Colombia,4.04,1009,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,Brazil,3.6,700,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,Indonesia,3.08,1224,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,Japan,0.51,89,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,United States,0.4,176,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,France,0.02,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2002,Philippines,0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,World,42.73,78143,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,China,25.98,66120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Lao PDR,7.24,10000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Brazil,4.3,779,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Kenya,2.89,555,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Colombia,0.93,360,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Belize,0.72,179,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Cameroon,0.27,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,United Kingdom,0.27,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Vietnam,0.07,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2003,Switzerland,0.05,4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,World,25.1,43872,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Lao PDR,11.73,40000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Australia,4.08,1361,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Colombia,3.99,1128,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Singapore,2.87,759,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Guatemala,0.82,213,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,United States,0.69,166,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Chile,0.61,210,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Italy,0.12,12,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Germany,0.09,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Vietnam,0.04,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Spain,0.03,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Switzerland,0.02,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2004,Indonesia,0.01,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,World,67.71,56534,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Guatemala,29.79,6562,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Lao PDR,15.91,45024,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Brazil,7.63,1775,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Colombia,4.34,1157,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Costa Rica,3.57,770,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Indonesia,3.37,673,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Singapore,1.57,360,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,United States,0.83,163,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Italy,0.48,17,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Mexico,0.08,15,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Vietnam,0.07,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,Philippines,0.04,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2005,India,0.03,4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,World,196.49,373635,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Lao PDR,114.65,339960,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Guatemala,12.23,2490,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Costa Rica,12.06,2417,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Indonesia,9.69,3000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Japan,9.16,3800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Australia,8.33,3450,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Colombia,8.28,1683,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Kenya,5.62,856,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Brazil,4.85,1644,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Singapore,4.03,884,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,China,3.3,12500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Malaysia,2.51,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,United States,0.84,146,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,"Korea, Rep.",0.45,13,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,India,0.44,300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2006,Vietnam,0.04,12,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,World,274.73,367915,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Lao PDR,92.25,285000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Colombia,39.76,19534,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Guatemala,37.54,7803,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,United Arab Emirates,35.88,24750,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Brazil,24.34,6250,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Japan,13.48,7331,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Honduras,10.82,4128,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Singapore,5.88,592,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,United States,5.57,843,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Australia,4.92,1360,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,China,2.79,10000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Indonesia,0.75,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Kenya,0.5,180,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,"Other Asia, nes",0.16,10,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Vietnam,0.05,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2007,Philippines,0.03,12,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,World,32834.45,14537000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Vietnam,32544.74,14199400,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Lao PDR,88.41,275000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Colombia,47.99,10004,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Indonesia,36.01,9147,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Brazil,23.64,5056,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Guatemala,17.14,3318,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Costa Rica,14.15,2976,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Myanmar,12.17,22499,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Italy,11.02,1508,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,United States,9.33,1337,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Panama,6,900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Honduras,5.7,1518,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Kenya,5.65,1075,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Uganda,4.29,1500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Mexico,2,483,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Singapore,1.86,559,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Germany,1.46,208,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Australia,1.38,164,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,El Salvador,0.67,137,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,India,0.4,64,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Rwanda,0.36,59,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Portugal,0.03,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Malaysia,0.03,12,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2008,Philippines,0.03,11,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,World,8449.14,6206060,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Vietnam,5967.74,3935890,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Indonesia,2157.71,1620420,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Lao PDR,190.54,599989,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Guatemala,29.33,5511,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Colombia,24.18,5488,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Brazil,14.08,3501,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,United States,8.72,1242,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Kenya,8,1483,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Belize,7.86,1808,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Myanmar,7.08,14000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Panama,7.04,1379,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Italy,5.05,1099,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Mexico,4.91,1202,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,China,4.2,10500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Germany,3.65,1050,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Rwanda,2.73,474,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Costa Rica,1.84,410,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Jamaica,1.2,14,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Nicaragua,1.06,204,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Ethiopia(excludes Eritrea),0.79,118,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,El Salvador,0.67,136,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,France,0.28,24,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Papua New Guinea,0.23,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Malawi,0.16,55,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Switzerland,0.04,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Thailand,0.02,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2009,Singapore,0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,World,23340.31,14263400,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Vietnam,20215.89,12199300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Indonesia,2729.91,1610660,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Lao PDR,108.81,340020,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Thailand,106.32,81040,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Guatemala,54.65,9278,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Brazil,25.93,6185,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Italy,20.89,3450,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Colombia,20.33,3473,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Singapore,12.93,2100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Panama,10.63,1740,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,El Salvador,9.49,1617,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,United States,7.27,1078,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Kenya,5.39,898,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Costa Rica,2.37,413,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Ethiopia(excludes Eritrea),2.24,358,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Rwanda,1.68,357,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Mexico,1.4,345,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Papua New Guinea,1.22,300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Tanzania,1.07,180,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Uganda,0.64,179,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,India,0.42,110,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Cameroon,0.36,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,Nicaragua,0.28,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2010,"Korea, Rep.",0.2,121,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,World,83279.54,34373400,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Vietnam,74755.17,30890600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Indonesia,8091.55,3199100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Guatemala,91.96,11737,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Lao PDR,90.78,238000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Colombia,59.41,9050,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Brazil,57.56,8376,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Tanzania,21.9,3299,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Italy,20.33,2706,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Kenya,15.89,1197,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Singapore,15.15,2105,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Ethiopia(excludes Eritrea),10.77,1194,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Panama,10.25,1432,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,India,7.63,1117,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,United Kingdom,7.52,565,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,El Salvador,5.69,621,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Costa Rica,5.52,690,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,United States,2.8,381,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Dominican Republic,2.25,234,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Papua New Guinea,2.09,240,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Bolivia,1.19,139,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Malawi,1.13,118,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Mexico,0.97,138,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Burundi,0.62,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Rwanda,0.59,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,China,0.58,100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Malaysia,0.23,104,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2011,Spain,0.02,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,World,63303.36,28670600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Vietnam,60878.49,27314500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Indonesia,1665.15,742526,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Lao PDR,445.14,567900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Guatemala,105.7,13730,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Brazil,82.16,13310,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Colombia,37.31,6090,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Tanzania,29.73,4860,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Panama,13.92,1808,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Italy,13.25,2190,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Kenya,11.55,897,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,"Korea, Rep.",5.52,963,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Rwanda,3.76,474,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Burundi,2.81,300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,El Salvador,1.9,275,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Germany,1.71,63,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Costa Rica,1.5,207,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Switzerland,0.96,45,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Bolivia,0.8,140,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Honduras,0.59,68,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Peru,0.52,70,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,United Kingdom,0.5,144,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,India,0.37,62,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,United States,0.02,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2012,Ethiopia(excludes Eritrea),0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,World,71217.43,34267900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Indonesia,49661.3,24488500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Vietnam,21112.9,9479170,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Guatemala,93.2,14382,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Lao PDR,77.7,240100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Brazil,70.18,13536,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Tanzania,38.63,6480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Italy,31.37,5044,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Switzerland,24.71,2598,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Panama,17.25,2460,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Colombia,16.21,3068,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Malaysia,14.71,2891,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,United States,9.47,1361,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Germany,8.03,1229,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,United Kingdom,7.5,1562,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,India,6.42,1791,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Kenya,5.23,630,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Rwanda,4.35,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,El Salvador,3.04,375,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Nicaragua,2.56,198,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Ethiopia(excludes Eritrea),2.45,481,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Costa Rica,2.44,276,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Singapore,2.41,600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Mexico,1.68,345,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Honduras,1.49,138,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Cuba,0.96,119,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Bolivia,0.91,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Papua New Guinea,0.25,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2013,Cambodia,0.07,33,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,World,95224.46,46024200,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Vietnam,76881.65,37115900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Indonesia,17868.8,8576340,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Guatemala,125.18,18406,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Lao PDR,87.85,271050,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Brazil,82.39,16372,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Tanzania,42.64,7140,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Italy,31.69,3532,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Panama,22.48,2779,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Colombia,16.05,2861,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Costa Rica,15.26,1711,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Kenya,13.48,1302,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,United Kingdom,11.98,2384,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,India,5.45,1140,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Ethiopia(excludes Eritrea),4.31,556,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Honduras,4.12,413,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Germany,2.02,876,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,El Salvador,1.98,175,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Rwanda,1.5,246,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,France,1.07,33,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Mexico,1.07,276,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Nicaragua,0.83,209,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Japan,0.52,80,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Burundi,0.5,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Papua New Guinea,0.46,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,"Korea, Rep.",0.38,130,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Peru,0.27,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Jamaica,0.14,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Philippines,0.12,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Switzerland,0.1,6,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,United Arab Emirates,0.07,10,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,United States,0.06,27,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Albania,0.01,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Belgium,0.01,4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Hungary,0.01,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Singapore,0.01,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2014,Spain,0.01,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,World,107220.87,57113000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Indonesia,59682.32,31709000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Vietnam,45085.66,22905300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Lao PDR,1769.64,2386620,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Brazil,200.42,39564.7,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Guatemala,134.03,20799,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Kenya,96.66,11169,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Tanzania,67.57,10560,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Colombia,56.55,9421.59,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Rwanda,33.86,3546,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,El Salvador,13.07,1559.65,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Costa Rica,11.23,1808.01,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Panama,10.91,2066,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,United Kingdom,8.51,2205,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Nicaragua,8.28,1529.26,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Honduras,8.13,2220,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,"Korea, Rep.",7.03,1037.79,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Switzerland,6.4,810,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Mexico,6.1,1204.15,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,India,4.43,1197,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Ethiopia(excludes Eritrea),2.36,242,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Papua New Guinea,1.72,180,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Burundi,1.52,240,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Bolivia,1.36,360,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Nepal,1.19,103,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Cuba,0.9,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,France,0.33,26.1037,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,United States,0.31,143.497,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Japan,0.08,45.0402,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Australia,0.08,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Germany,0.08,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Denmark,0.07,26,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,China,0.05,24.6269,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,Netherlands,0.01,5.52947,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2015,East Timor,0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,World,89077.18,46072800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Vietnam,86274.19,45250600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Lao PDR,1443.34,419981,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Indonesia,642.39,257369,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Brazil,168.47,33643,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Guatemala,145.88,22213,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Tanzania,92.02,14580,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Kenya,66.96,8488,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Colombia,58.57,10598,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Myanmar,51.25,16500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Panama,39.87,3021.58,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Honduras,15.22,2898,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Italy,14.3,3050,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,El Salvador,11.77,681,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Costa Rica,8.47,1173,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Mexico,6.9,1449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Nicaragua,5.8,732,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Rwanda,4.93,660,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,France,4.73,388.632,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,China,4.31,21800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Papua New Guinea,2.85,600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Ethiopia(excludes Eritrea),2.53,302,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Ecuador,2.47,450,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,India,2.19,401,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,"Congo, Rep.",2.19,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Japan,1.27,218.562,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Malawi,1.25,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Burundi,1.04,240,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Yemen,0.87,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Peru,0.4,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,United States,0.39,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Australia,0.21,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,United Kingdom,0.04,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,"Korea, Rep.",0.04,22.6595,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2016,Norway,0.02,9.1083,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,World,128811,55414800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Vietnam,94194.06,41974800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Indonesia,27282.61,11743600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Lao PDR,6460.44,1444190,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Brazil,267.92,50635,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Guatemala,126.59,19281,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Kenya,114.12,12166,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Tanzania,107.44,16020,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Colombia,79.28,14655,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Panama,36.2,2104,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,China,26.12,119234,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Costa Rica,25.71,3199,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Mexico,12.82,2553,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Honduras,12.7,1832,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Rwanda,11.85,1510,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Papua New Guinea,10.56,1620,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,El Salvador,9.63,1056,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Nicaragua,8.84,1725,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Myanmar,6.22,2075,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,France,3.48,110,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,India,3.07,540,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,United States,2.69,83.8584,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Turkey,1.94,798,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Peru,1.3,207,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Australia,1.24,30,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Ethiopia(excludes Eritrea),1.13,360,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Yemen,0.86,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,"Congo, Rep.",0.67,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Uganda,0.56,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Dominican Republic,0.35,90,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,United Kingdom,0.21,14.3913,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Israel,0.16,11,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Norway,0.09,18,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Italy,0.08,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,South Africa,0.05,4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2017,Singapore,0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,World,119327.51,62650300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Vietnam,108684.96,59732800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Lao PDR,9123.75,2515370,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Indonesia,503.54,130498,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Brazil,227.66,51724,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Guatemala,108.7,17274,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Colombia,101.31,19543,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Kenya,100.14,10339,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Myanmar,87.52,18000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,China,65.88,104288,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Malaysia,65.5,18000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Tanzania,65.34,9520,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Costa Rica,37.27,3820,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,El Salvador,26.15,2343,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Panama,22.72,1280,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Burundi,20.11,2227,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Rwanda,19.74,2770,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Papua New Guinea,13.64,2281,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Yemen,10.19,960,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Mexico,9.46,1863,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Singapore,6.87,1398.34,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Honduras,6.07,1311,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Bolivia,5.62,634,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Uganda,2.38,330,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Zambia,2.34,420,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Peru,2.32,414,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,"Congo, Rep.",2.17,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Nicaragua,2.16,176.77,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,India,2.13,172,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,United States,1.45,35,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Jamaica,0.21,30,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,United Kingdom,0.11,26.474,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Ethiopia(excludes Eritrea),0.06,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2018,Czech Republic,0.05,24.7761,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,World,80599.65,44819800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Vietnam,65358.02,38740600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Lao PDR,7661.75,2205440,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Indonesia,6618.82,3639490,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Brazil,380.33,115664,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Kenya,148.73,18209,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Guatemala,131.13,21514,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Colombia,102.24,24147,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Tanzania,62.04,9700,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Papua New Guinea,24.95,3513,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Rwanda,21.38,7017,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Honduras,17.92,4674,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Yemen,14.85,1280,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Mexico,11.27,2376,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Costa Rica,10.93,969,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Nicaragua,7.28,2275,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Panama,6.9,560,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Burundi,5.64,900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Peru,3.99,690,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,China,3.36,19800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,El Salvador,3.18,454,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Zambia,2.42,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Jamaica,1.02,15,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Japan,0.93,67,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,United States,0.47,13,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,"Korea, Rep.",0.1,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2019,Singapore,0,1.964,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,World,98583.88,59613500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Vietnam,85000.97,54175100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Lao PDR,8033.96,2263370,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Indonesia,4549.56,2893520,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Brazil,502.88,171425,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Guatemala,151.35,29446,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Colombia,119.32,32639.1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Kenya,70.49,13355,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Tanzania,65.13,16440,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Costa Rica,13.39,1624,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Honduras,12.77,4407,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Panama,10.6,206,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Rwanda,7.77,5790,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Jamaica,7.57,140,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Yemen,6.34,750,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Papua New Guinea,5.94,960,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Mexico,4.87,1446,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,"Congo, Rep.",4.38,1020,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Spain,4.04,300,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,United States,3.33,52,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,El Salvador,1.82,407,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Canada,1.35,40,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Ethiopia(excludes Eritrea),1.28,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Nicaragua,1.09,138,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,United Kingdom,0.79,12,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,"Hong Kong, China",0.78,162,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Peru,0.72,138,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Burundi,0.41,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Switzerland,0.32,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Uganda,0.27,180,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,China,0.17,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Singapore,0.1,6,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,India,0.09,61,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Turkey,0.01,8.183,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2020,Myanmar,0.01,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,World,110557.28,58570500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Vietnam,84211.96,48722800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Lao PDR,17297.1,4822790,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Indonesia,7940.71,4721100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Brazil,644.61,206670,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Colombia,139.4,31336.9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Guatemala,84.57,21005.9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Kenya,53.19,10968.7,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Nicaragua,35.49,742.904,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Panama,26.88,2247,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Costa Rica,26.23,3662.45,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Rwanda,15.31,10621.4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Yemen,14.84,1032,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Papua New Guinea,10.79,2820,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Tanzania,9.72,2730,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Uganda,8.27,3060,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,"Congo, Rep.",7.67,1680,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,China,6.13,1209.17,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Mexico,4.28,1098,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Ecuador,3.55,250,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Honduras,2.97,632.845,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Peru,2.93,417.449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Ethiopia(excludes Eritrea),2.59,429.396,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,India,2.53,402.449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Spain,2.13,225,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Singapore,1.36,201,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Jamaica,0.98,17.449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,El Salvador,0.46,142.455,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,"Other Asia, nes",0.27,135.845,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,United Kingdom,0.15,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Malaysia,0.11,8,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,United States,0.08,44.216,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Dominican Republic,0,2.449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2021,Canada,0,2.449,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,World,150091.53,61975700,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Vietnam,121485.26,56044000,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Lao PDR,25603.85,5093970,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Indonesia,1798.16,517182,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Brazil,757.94,196521,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Kenya,111.06,28208,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Colombia,108.17,16679,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Myanmar,75.56,38287,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Guatemala,48.83,9685,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Rwanda,29.05,19168,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Tanzania,20.05,2928,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Costa Rica,10.9,2475,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Panama,6.37,1103,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Papua New Guinea,5.3,780,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,"Congo, Rep.",5.19,900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Ethiopia(excludes Eritrea),3.53,840,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Yemen,3.3,480,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Mexico,3.23,483,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Jamaica,2.26,63,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,El Salvador,2.2,498,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,United Kingdom,2.14,223,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Honduras,1.58,206,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Australia,1.44,15,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Nicaragua,1.1,129,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Peru,1.04,145,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Cuba,0.73,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,China,0.59,401,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Spain,0.59,50,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,United States,0.53,42.887,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Uganda,0.36,87,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Dominican Republic,0.34,31,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Japan,0.25,6,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Sweden,0.18,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Italy,0.15,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,"Other Asia, nes",0.12,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,New Zealand,0.1,2,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,Germany,0.1,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2022,"Korea, Rep.",0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,World,184701.25,62161900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Vietnam,121570.31,43720500,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Indonesia,30915.53,10009600,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Lao PDR,30653.17,8063120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Brazil,901.48,256191,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Colombia,407.94,73649,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Kenya,65.13,17023,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Guatemala,50.08,7469,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Singapore,29.68,3782,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Panama,29.34,540,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Papua New Guinea,16.78,3242,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Malaysia,11.27,1002,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Costa Rica,11.19,1279,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Peru,8.09,754,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Rwanda,5.12,750,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Nicaragua,4.61,690,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Mexico,3.54,430,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,El Salvador,3.08,379,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Uganda,2.68,200,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Jamaica,2.42,69,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,India,2.33,302,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Honduras,2.08,427,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Tanzania,1.72,150,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Yemen,0.92,56,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Ecuador,0.77,20,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Nepal,0.54,100,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Burundi,0.38,120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Australia,0.34,9,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Japan,0.22,4,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,"Congo, Rep.",0.21,60,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Germany,0.15,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,Spain,0.1,5,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2023,United States,0.02,8.196,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,World,244549.35,61284400,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Vietnam,145431.53,36703900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Lao PDR,54464.5,15048900,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Indonesia,42307.3,8797120,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Brazil,1178.59,448862,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Myanmar,504.28,167800,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Colombia,441.78,54853,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Kenya,95.31,24751,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Guatemala,65.32,15611,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Rwanda,13.47,12750,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Ethiopia(excludes Eritrea),10.33,4384,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Panama,7.25,405,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Peru,7.04,1857,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Jamaica,5.31,137,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Papua New Guinea,4.66,789,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Costa Rica,3.42,347,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,United States,2.49,741,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Uganda,1.76,150,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Mexico,1.65,276,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,El Salvador,0.85,40,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Tanzania,0.8,398,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Honduras,0.64,140,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Nicaragua,0.42,30,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Canada,0.18,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Ecuador,0.17,14,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,United Arab Emirates,0.07,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,China,0.06,7,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,"Other Asia, nes",0.06,14.538,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Sri Lanka,0.05,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Spain,0.05,3,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,United Kingdom,0.01,1,Kg
+Thailand,Import,90111,"Coffee, not roasted or decaffeinated",2024,Singapore,0.01,3.426,Kg
