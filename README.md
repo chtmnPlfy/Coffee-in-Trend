@@ -232,9 +232,9 @@
 
 <a id="ref1"></a>
 ### แหล่งอ้างอิง
-- International Coffee Organization (ICO) - [https://www.ico.org](https://www.ico.org)
+- International Coffee Organization (ICO) - https://www.ico.org
 - World Bank - World Development Indicators, Population, total (`data/world_population.csv`)
-- Bangkok Post - [Taiwanese coffee chain opens doors in Bangkok](https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok) (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย)
+- Bangkok Post: Taiwanese coffee chain opens doors in Bangkok (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย) - https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok
 - Coffee Affection / Statista - สถิติมูลค่าตลาดกาแฟไทยและจำนวนสาขา Café Amazon
 
 <a id="ref"></a>
