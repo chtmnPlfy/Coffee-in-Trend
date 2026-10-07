@@ -1,8 +1,8 @@
 # $\color{brown}{\text{Coffee in Trends}}$
 
 ## Overview
-ทุกวันนี้ผู้คนทั่วโลกดื่มกาแฟกันมากกว่า 2.25 พันล้านแก้วต่อวัน หรือกว่า 400 พันล้านแก้วต่อปี[^1] และตลาดกาแฟทั้งโลกก็มีรายได้รวมคาดการณ์ประมาณ 473,100 ล้านดอลลาร์สหรัฐในปี 2025 แบ่งเป็นรายได้จากการบริโภคในครัวเรือน 96,450 ล้านดอลลาร์ และการบริโภคนอกบ้าน[^2] 376,700 ล้านดอลลาร์[^3] สะท้อนว่ากาแฟไม่ใช่แค่เครื่องดื่ม แต่เป็นสินค้าเกษตร-อุตสาหกรรมที่เชื่อมโยงประเทศผู้ผลิตและผู้ส่งออกกว่า 70 ประเทศเข้าด้วยกัน[^1]
-**ประเทศไทย**เองก็อยู่ในกระแสนี้ไม่น้อย คนไทยดื่มกาแฟเพิ่มขึ้นจาก 180 แก้วต่อคนต่อปี เป็นมากกว่า 340 แก้วต่อคนต่อปีในปัจจุบัน[^4] ผลักดันให้มูลค่าตลาดกาแฟในประเทศของปี 2025 แตะ 65,000 ล้านบาท เพิ่มขึ้นราว 8.33% จากปีก่อนหน้า[^5] ซึ่งสะท้อนเป็นภาพเดียวกับเหตุการณ์ที่เกิดขึ้นในหลายประเทศทั่วโลก
+ทุกวันนี้ผู้คนทั่วโลกดื่มกาแฟกันมากกว่า 2.25 พันล้านแก้วต่อวัน หรือกว่า 400 พันล้านแก้วต่อปี<sup>[[1]](#ref1)</sup> และตลาดกาแฟทั้งโลกก็มีรายได้รวมคาดการณ์ประมาณ 473,100 ล้านดอลลาร์สหรัฐในปี 2025 แบ่งเป็นรายได้จากการบริโภคในครัวเรือน 96,450 ล้านดอลลาร์ และการบริโภคนอกบ้าน<sup>[[2]](#ref1)</sup> 376,700 ล้านดอลลาร์<sup>[[3]](#ref1)</sup> สะท้อนว่ากาแฟไม่ใช่แค่เครื่องดื่ม แต่เป็นสินค้าเกษตร-อุตสาหกรรมที่เชื่อมโยงประเทศผู้ผลิตและผู้ส่งออกกว่า 70 ประเทศเข้าด้วยกัน<sup>[[1]](#ref1)</sup>
+**ประเทศไทย**เองก็อยู่ในกระแสนี้ไม่น้อย คนไทยดื่มกาแฟเพิ่มขึ้นจาก 180 แก้วต่อคนต่อปี เป็นมากกว่า 340 แก้วต่อคนต่อปีในปัจจุบัน<sup>[[4]](#ref1)</sup> ผลักดันให้มูลค่าตลาดกาแฟในประเทศของปี 2025 แตะ 65,000 ล้านบาท เพิ่มขึ้นราว 8.33% จากปีก่อนหน้า<sup>[[5]](#ref1)</sup> ซึ่งสะท้อนเป็นภาพเดียวกับเหตุการณ์ที่เกิดขึ้นในหลายประเทศทั่วโลก
 
 ## Introduction
 สมัยก่อนเวลาอยากกินกาแฟ เรามักซื้อกาแฟโบราณ โอเลี้ยง จากรถเข็นหรือร้านกาแฟทั่วไป แทบไม่เคยเห็นเมล็ดกาแฟจากประเทศไกล ๆ อย่างบราซิล ฮอนดูรัส หรือโคลอมเบียวางขายเลย แต่พอมาไม่ถึงสิบปีนี้ กลับมีเมล็ดกาแฟจากทั่วโลกให้เลือกกินเต็มไปหมด เกิดอะไรขึ้นกับเทรนด์กาแฟโลก ที่ทำให้การแลกเปลี่ยนเมล็ดกาแฟระหว่างประเทศเพิ่มขึ้นขนาดนี้? แล้วเรื่องนี้เกี่ยวอะไรกับพฤติกรรมการบริโภคกาแฟในไทยที่เปลี่ยนไปด้วยหรือเปล่า?
@@ -13,7 +13,7 @@
 
 ### แหล่งข้อมูลหลัก
 
-ชุดข้อมูลจาก **[International Coffee Organization (ICO)](https://www.kaggle.com/datasets/michals22/coffee-dataset)** รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
+ชุดข้อมูลจาก **International Coffee Organization (ICO)**<sup>[[6]](#ref2)</sup> รวม 7 ไฟล์ ครอบคลุมสถิติการค้าและผลผลิตกาแฟ:
 - ผลผลิต (Production)
 - การบริโภคในประเทศ (Domestic consumption)
 - การส่งออก (Export)
@@ -22,14 +22,14 @@
 - การบริโภคของประเทศผู้นำเข้า (Importer Consumption)
 - สต็อกกาแฟดิบคงคลัง (Green Coffee Inventory)
 
-### **รายละเอียด:**
+### รายละเอียด
 - ช่วงเวลา: ปี 1990-2019/20 (การเก็บข้อมูลนี้เป็นข้อมูลแบบคร่อมปี เช่น ข้อมูลในปี 1990 จะเป็นข้อมูลของช่วงปี 1990-1991)
 - ครอบคลุม 55 ประเทศผู้ปลูก (Exporting Members) และ 35 ประเทศผู้นำเข้า (Importing Members)
 - หน่วยข้อมูล: กิโลกรัม เทียบเท่ากาแฟดิบ (Green Coffee Equivalent)
 
 ### แหล่งข้อมูลเสริม
-- ข้อมูลประชากรจาก **[World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH)** (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
-- ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย **[IndexMundi](https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports)**
+- ข้อมูลประชากรจาก **World Bank**<sup>[[7]](#ref2)</sup> (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
+- ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย **IndexMundi**<sup>[[8]](#ref2)</sup>
 
 ---
 
@@ -38,7 +38,7 @@
 2. **ช่องว่างในชื่อประเทศที่ไม่สม่ำเสมอ** -> แก้ไขด้วยการ strip ช่องว่างหัวท้าย
 3. **รายชื่อประเทศไม่ตรงกันระหว่างไฟล์ฝั่งผู้ปลูกและผู้นำเข้า** -> แก้ไขด้วยการรวมข้อมูลแบบ concat เพื่อไม่ให้ข้อมูลจริงหายไปโดยไม่ตั้งใจ
 4. **รูปแบบปีไม่สม่ำเสมอ** -> ปีเพาะปลูก (เช่น **"1990/91"**) กับปีปฏิทิน (**"1990"**) ถูกแปลงให้เป็นคอลัมน์ปีแบบจำนวนเต็มรูปแบบเดียวกัน
-5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจาก[แหล่งอ้างอิงเพิ่มเติม](#ref1)ที่เชื่อถือได้
+5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจาก[แหล่งอ้างอิงเพิ่มเติม](#ref2)ที่เชื่อถือได้
 
 ### ขั้นตอนการรวมข้อมูล
 - แปลงไฟล์ดิบทั้งหมดจากข้อมูลรูปแบบกว้าง (wide) เป็นรูปแบบยาว (long)
@@ -231,19 +231,32 @@
 ---
 ## แหล่งอ้างอิงข้อมูลต่าง ๆ
 
-### แหล่งอ้างอิงประกอบ Overview
-[^1]: COFFEEBI. (2025). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295687
-[^2]: Food & Hospitality Asia (FHA). (2024). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.foodnhotelasia.com/?p=9403
-[^3]: COFFEEBI. (2025). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295826
-[^4]: Commerce News Agency (CNA). (2025). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.commercenewsagency.com/news/8169
-[^5]: การตลาดวันละตอน | Everyday Marketing. (2025). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
-
 <a id="ref1"></a>
+### แหล่งอ้างอิงประกอบ Overview
+[1] COFFEEBI. (2025). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295687
+
+[2] Food & Hospitality Asia (FHA). (2024). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.foodnhotelasia.com/?p=9403
+
+[3] COFFEEBI. (2025). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295826
+
+[4] Commerce News Agency (CNA). (2025). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.commercenewsagency.com/news/8169
+
+[5] การตลาดวันละตอน | Everyday Marketing. (2025). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
+
+<a id="ref2"></a>
 ### แหล่งอ้างอิงชุดข้อมูลที่ใช้วิเคราะห์ (Dataset)
-- International Coffee Organization (ICO) - https://www.ico.org
-- World Bank - World Development Indicators, Population, total (`data/world_population.csv`)
-- Bangkok Post: Taiwanese coffee chain opens doors in Bangkok (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย) - https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok
-- Coffee Affection / Statista - สถิติมูลค่าตลาดกาแฟไทยและจำนวนสาขา Café Amazon
+[6] Kaggle. (2022). *Coffee dataset.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.kaggle.com/datasets/michals22/coffee-dataset
+
+[7] World Bank Group. (2025). *Population, total - Thailand.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH
+
+[8] IndexMundi;
+- IndexMundi. *Green Coffee Bean Imports by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
+- IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+- IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
+- IndexMundi. *European Union (EU-27) Green Coffee Bean Imports by Year.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
+- IndexMundi. *Green Coffee Domestic Consumption by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
+- IndexMundi. *Green Coffee Production by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
+
 
 ### แหล่งอ้างอิงเพิ่มเติมสำหรับข้อมูลประกอบ
 - https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
