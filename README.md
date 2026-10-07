@@ -38,7 +38,9 @@
 2. **ช่องว่างในชื่อประเทศที่ไม่สม่ำเสมอ** -> แก้ไขด้วยการ strip ช่องว่างหัวท้าย
 3. **รายชื่อประเทศไม่ตรงกันระหว่างไฟล์ฝั่งผู้ปลูกและผู้นำเข้า** -> แก้ไขด้วยการรวมข้อมูลแบบ concat เพื่อไม่ให้ข้อมูลจริงหายไปโดยไม่ตั้งใจ
 4. **รูปแบบปีไม่สม่ำเสมอ** -> ปีเพาะปลูก (เช่น **"1990/91"**) กับปีปฏิทิน (**"1990"**) ถูกแปลงให้เป็นคอลัมน์ปีแบบจำนวนเต็มรูปแบบเดียวกัน
-5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจาก[แหล่งอ้างอิงเพิ่มเติม](#ref2)ที่เชื่อถือได้
+5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจาก[แหล่งอ้างอิงเพิ่มเติม](#ref3)ที่เชื่อถือได้
+   5.1 ข้อมูลการส่งออกและนำเข้าเมล็ดกาแฟ<sup>[[9]](#ref3)</sup>
+   5.2 
 
 ### ขั้นตอนการรวมข้อมูล
 - แปลงไฟล์ดิบทั้งหมดจากข้อมูลรูปแบบกว้าง (wide) เป็นรูปแบบยาว (long)
@@ -233,39 +235,30 @@
 
 <a id="ref1"></a>
 ### แหล่งอ้างอิงประกอบ Overview
-[1] COFFEEBI. (2025). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295687
+- [1] COFFEEBI. (2568). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://coffeebi.com/?p=295687
+- [2] Food & Hospitality Asia (FHA). (2567). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.foodnhotelasia.com/?p=9403
+- [3] COFFEEBI. (2568). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://coffeebi.com/?p=295826
+- [4] Commerce News Agency (CNA). (2568). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.commercenewsagency.com/news/8169
+- [5] การตลาดวันละตอน | Everyday Marketing. (2568). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
 
-[2] Food & Hospitality Asia (FHA). (2024). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.foodnhotelasia.com/?p=9403
-
-[3] COFFEEBI. (2025). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295826
-
-[4] Commerce News Agency (CNA). (2025). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.commercenewsagency.com/news/8169
-
-[5] การตลาดวันละตอน | Everyday Marketing. (2025). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
 
 <a id="ref2"></a>
-### แหล่งอ้างอิงชุดข้อมูลที่ใช้วิเคราะห์ (Dataset)
-[6] Kaggle. (2022). *Coffee dataset.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.kaggle.com/datasets/michals22/coffee-dataset
+### แหล่งอ้างอิงชุดข้อมูลหลักที่ใช้วิเคราะห์
+- [6] Kaggle. (2565). *Coffee dataset.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.kaggle.com/datasets/michals22/coffee-dataset
+- [7] World Bank Group. (2568). *Population, total - Thailand.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH
+- [8] IndexMundi;
+  - IndexMundi. *Green Coffee Bean Imports by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
+  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
+  - IndexMundi. *European Union (EU-27) Green Coffee Bean Imports by Year.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
+  - IndexMundi. *Green Coffee Domestic Consumption by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
+  - IndexMundi. *Green Coffee Production by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
 
-[7] World Bank Group. (2025). *Population, total - Thailand.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH
+<a id="ref3"></a>
+### แหล่งอ้างอิงเพิ่มเติมสำหรับประกอบชุดข้อมูลหลัก
+- [9] International Coffee Organization (ICO). *Historical Data on the Global Coffee Trade.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ico.org/resources/historical-data-on-the-global-coffee-trade/
+- [10] 
 
-[8] IndexMundi;
-- IndexMundi. *Green Coffee Bean Imports by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
-- IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
-- IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
-- IndexMundi. *European Union (EU-27) Green Coffee Bean Imports by Year.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
-- IndexMundi. *Green Coffee Domestic Consumption by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
-- IndexMundi. *Green Coffee Production by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
-
-
-### แหล่งอ้างอิงเพิ่มเติมสำหรับข้อมูลประกอบ
-- https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
-- https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
-- https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
-- https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
-- https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
-- https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
-- https://ico.org/resources/historical-data-on-the-global-coffee-trade/
 - https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
 - https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
 - https://www.cafe-amazon.com/about-us
