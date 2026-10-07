@@ -256,7 +256,7 @@
 <a id="ref3"></a>
 ### แหล่งอ้างอิงเพิ่มเติมสำหรับประกอบชุดข้อมูลหลัก
 - [9] International Coffee Organization (ICO). *Historical Data on the Global Coffee Trade.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ico.org/resources/historical-data-on-the-global-coffee-trade/
-- [10] Café Amazon;
+- [10] Cafe Amazon;
   - บริษัท ปตท. จํากัด (มหาชน). (2554). *แบบ 56-1 สิ้นสุด 31 ธันวาคม 2554 บริษัท ปตท. จํากัด (มหาชน).* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
   - มหาวิทยาลัยธรรมศาสตร์. (2558). *ปัจจัยที่มีผลต่อการตัดสินใจซื้อกาแฟจากร้านคาเฟ่ อเมซอน ในสถานีบริการ น้ำมัน ปตท. ของผู้บริโภคในเขตกรุงเทพมหานครและปริมณฑล.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
   - BrandAge Online. (2567). *Update ยอดขาย Cafe Amazon ไตรมาส 3/67.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.brandage.com/article/40901
