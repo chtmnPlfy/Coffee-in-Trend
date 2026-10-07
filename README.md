@@ -28,7 +28,7 @@
 - หน่วยข้อมูล: กิโลกรัม เทียบเท่ากาแฟดิบ (Green Coffee Equivalent)
 
 ### แหล่งข้อมูลเสริม
-- ข้อมูลประชากรจาก **[World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL)** (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
+- ข้อมูลประชากรจาก **[World Bank](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH)** (1960-2025, 264 ประเทศ) ใช้คำนวณการบริโภคต่อหัว
 - ข้อมูลการนำเข้าและบริโภคกาแฟ ปี 2022-2024 โดย **[IndexMundi](https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports)**
 
 ---
