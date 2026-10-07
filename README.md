@@ -229,9 +229,10 @@
 - เมื่อดูกำลังการผลิตและการบริโภคปัจจุบัน ก็ยังมีส่วนต่างที่ไม่ถูกเติมเต็ม อาจนำไปสู่โอกาสทางธุรกิจเพิ่มเติมได้
 
 ---
+## แหล่งอ้างอิงข้อมูลต่าง ๆ
 
 <a id="ref1"></a>
-### แหล่งอ้างอิง
+### แหล่งอ้างอิงชุดข้อมูลที่ใช้วิเคราะห์ (Dataset)
 - International Coffee Organization (ICO) - https://www.ico.org
 - World Bank - World Development Indicators, Population, total (`data/world_population.csv`)
 - Bangkok Post: Taiwanese coffee chain opens doors in Bangkok (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย) - https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok
