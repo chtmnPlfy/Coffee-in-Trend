@@ -1,8 +1,8 @@
 # $\color{brown}{\text{Coffee in Trends}}$
 
 ## Overview
-ทุกวันนี้ผู้คนทั่วโลกดื่มกาแฟกันมากกว่า 2.25 พันล้านแก้วต่อวัน หรือกว่า 400 พันล้านแก้วต่อปี $\color{grey}{\text{(Food N Hotel Asia, 2025)}}$ และตลาดกาแฟทั้งโลกก็มีรายได้รวมคาดการณ์ประมาณ 473,100 ล้านดอลลาร์สหรัฐในปี 2025 แบ่งเป็นรายได้จากการบริโภคในครัวเรือน 96,450 ล้านดอลลาร์ และการบริโภคนอกบ้าน $\color{grey}{\text{(ร้านอาหาร คาเฟ่)}}$ 376,700 ล้านดอลลาร์ $\color{grey}{\text{(GourmetPro, 2025)}}$ สะท้อนว่ากาแฟไม่ใช่แค่เครื่องดื่ม แต่เป็นสินค้าเกษตร-อุตสาหกรรมที่เชื่อมโยงประเทศผู้ผลิตและผู้ส่งออกกว่า 70 ประเทศเข้าด้วยกัน $\color{grey}{\text{(Food N Hotel Asia, 2025)}}$
-**ประเทศไทย**เองก็อยู่ในกระแสนี้ไม่น้อย คนไทยดื่มกาแฟเพิ่มขึ้นจาก 180 แก้วต่อคนต่อปี เป็นมากกว่า 340 แก้วต่อคนต่อปีในปัจจุบัน $\color{grey}{\text{(กรมพัฒนาธุรกิจการค้า, 2568)}}$ ผลักดันให้มูลค่าตลาดกาแฟในประเทศของปี 2025 แตะ 65,000 ล้านบาท เพิ่มขึ้นราว 8.33% จากปีก่อนหน้า $\color{grey}{\text{(EverydayMarketing, 2569)}}$ ซึ่งสะท้อนเป็นภาพเดียวกับเหตุการณ์ที่เกิดขึ้นในหลายประเทศทั่วโลก <sup>[[ref]](#ref)</sup>
+ทุกวันนี้ผู้คนทั่วโลกดื่มกาแฟกันมากกว่า 2.25 พันล้านแก้วต่อวัน หรือกว่า 400 พันล้านแก้วต่อปี[^1] และตลาดกาแฟทั้งโลกก็มีรายได้รวมคาดการณ์ประมาณ 473,100 ล้านดอลลาร์สหรัฐในปี 2025 แบ่งเป็นรายได้จากการบริโภคในครัวเรือน 96,450 ล้านดอลลาร์ และการบริโภคนอกบ้าน[^2] 376,700 ล้านดอลลาร์[^3] สะท้อนว่ากาแฟไม่ใช่แค่เครื่องดื่ม แต่เป็นสินค้าเกษตร-อุตสาหกรรมที่เชื่อมโยงประเทศผู้ผลิตและผู้ส่งออกกว่า 70 ประเทศเข้าด้วยกัน[^1]
+**ประเทศไทย**เองก็อยู่ในกระแสนี้ไม่น้อย คนไทยดื่มกาแฟเพิ่มขึ้นจาก 180 แก้วต่อคนต่อปี เป็นมากกว่า 340 แก้วต่อคนต่อปีในปัจจุบัน[^4] ผลักดันให้มูลค่าตลาดกาแฟในประเทศของปี 2025 แตะ 65,000 ล้านบาท เพิ่มขึ้นราว 8.33% จากปีก่อนหน้า[^5] ซึ่งสะท้อนเป็นภาพเดียวกับเหตุการณ์ที่เกิดขึ้นในหลายประเทศทั่วโลก
 
 ## Introduction
 สมัยก่อนเวลาอยากกินกาแฟ เรามักซื้อกาแฟโบราณ โอเลี้ยง จากรถเข็นหรือร้านกาแฟทั่วไป แทบไม่เคยเห็นเมล็ดกาแฟจากประเทศไกล ๆ อย่างบราซิล ฮอนดูรัส หรือโคลอมเบียวางขายเลย แต่พอมาไม่ถึงสิบปีนี้ กลับมีเมล็ดกาแฟจากทั่วโลกให้เลือกกินเต็มไปหมด เกิดอะไรขึ้นกับเทรนด์กาแฟโลก ที่ทำให้การแลกเปลี่ยนเมล็ดกาแฟระหว่างประเทศเพิ่มขึ้นขนาดนี้? แล้วเรื่องนี้เกี่ยวอะไรกับพฤติกรรมการบริโภคกาแฟในไทยที่เปลี่ยนไปด้วยหรือเปล่า?
@@ -231,21 +231,19 @@
 ---
 ## แหล่งอ้างอิงข้อมูลต่าง ๆ
 
+### แหล่งอ้างอิงประกอบ Overview
+[^1]: COFFEEBI. (2025). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295687
+[^2]: Food & Hospitality Asia (FHA). (2024). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.foodnhotelasia.com/?p=9403
+[^3]: COFFEEBI. (2025). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://coffeebi.com/?p=295826
+[^4]: Commerce News Agency (CNA). (2025). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://www.commercenewsagency.com/news/8169
+[^5]: การตลาดวันละตอน | Everyday Marketing. (2025). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2026 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
+
 <a id="ref1"></a>
 ### แหล่งอ้างอิงชุดข้อมูลที่ใช้วิเคราะห์ (Dataset)
 - International Coffee Organization (ICO) - https://www.ico.org
 - World Bank - World Development Indicators, Population, total (`data/world_population.csv`)
 - Bangkok Post: Taiwanese coffee chain opens doors in Bangkok (สถิติบริโภคต่อหัวจากสมาคมกาแฟไทย) - https://www.bangkokpost.com/business/1640980/taiwanese-coffee-chain-opens-doors-in-bangkok
 - Coffee Affection / Statista - สถิติมูลค่าตลาดกาแฟไทยและจำนวนสาขา Café Amazon
-
-<a id="ref"></a>
-### แหล่งอ้างอิงประกอบ Overview
-- https://coffeebi.com/?p=295687
-- https://www.foodnhotelasia.com/?p=9403
-- https://coffeebi.com/?p=295826
-- https://www.commercenewsagency.com/news/8169
-- https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
-- https://www.forbesthailand.com/news/marketing/thai-specialty-coffee-value-2025
 
 ### แหล่งอ้างอิงเพิ่มเติมสำหรับข้อมูลประกอบ
 - https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
