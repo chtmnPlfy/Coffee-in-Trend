@@ -38,9 +38,9 @@
 2. **ช่องว่างในชื่อประเทศที่ไม่สม่ำเสมอ** -> แก้ไขด้วยการ strip ช่องว่างหัวท้าย
 3. **รายชื่อประเทศไม่ตรงกันระหว่างไฟล์ฝั่งผู้ปลูกและผู้นำเข้า** -> แก้ไขด้วยการรวมข้อมูลแบบ concat เพื่อไม่ให้ข้อมูลจริงหายไปโดยไม่ตั้งใจ
 4. **รูปแบบปีไม่สม่ำเสมอ** -> ปีเพาะปลูก (เช่น **"1990/91"**) กับปีปฏิทิน (**"1990"**) ถูกแปลงให้เป็นคอลัมน์ปีแบบจำนวนเต็มรูปแบบเดียวกัน
-5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจาก[แหล่งอ้างอิงเพิ่มเติม](#ref3)ที่เชื่อถือได้
-   5.1 ข้อมูลการส่งออกและนำเข้าเมล็ดกาแฟ<sup>[[9]](#ref3)</sup>
-   5.2 
+5. **การเติมข้อมูลที่ขาดหายไป** -> หาข้อมูลจากแหล่งอ้างอิงเพิ่มเติมที่เชื่อถือได้
+   - ข้อมูลการส่งออกและนำเข้าเมล็ดกาแฟ<sup>[[9]](#ref3)</sup>
+   - ข้อมูลจำนวนสาขาร้าน Cafe Amazon<sup>[[10]](#ref3)</sup> และ Starbucks<sup>[[11]](#ref3)</sup> ในประเทศไทย
 
 ### ขั้นตอนการรวมข้อมูล
 - แปลงไฟล์ดิบทั้งหมดจากข้อมูลรูปแบบกว้าง (wide) เป็นรูปแบบยาว (long)
@@ -241,7 +241,6 @@
 - [4] Commerce News Agency (CNA). (2568). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.commercenewsagency.com/news/8169
 - [5] การตลาดวันละตอน | Everyday Marketing. (2568). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
 
-
 <a id="ref2"></a>
 ### แหล่งอ้างอิงชุดข้อมูลหลักที่ใช้วิเคราะห์
 - [6] Kaggle. (2565). *Coffee dataset.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.kaggle.com/datasets/michals22/coffee-dataset
@@ -257,20 +256,15 @@
 <a id="ref3"></a>
 ### แหล่งอ้างอิงเพิ่มเติมสำหรับประกอบชุดข้อมูลหลัก
 - [9] International Coffee Organization (ICO). *Historical Data on the Global Coffee Trade.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ico.org/resources/historical-data-on-the-global-coffee-trade/
-- [10] 
-
-- https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
-- https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
-- https://www.cafe-amazon.com/about-us
-- https://www.thebangkokinsight.com/news/business/economics/273287/
-- https://www.brandage.com/article/42415
-- https://www.brandage.com/article/40901
-- https://www.instagram.com/p/Dbu1jm8EnXA/
-- https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
-- https://art4d.com/2023/09/cafe-amazon-unpacking-the-design
-- https://thestandard.co/coffee-chains-thailand-starbucks-amazon-punthai/
-- https://www.forbesthailand.com/news/marketing/starbucks-aims-to-reach-600-stores-in-thailand-in-early-2027
-- https://www.starbucks.co.th/th/find-a-store
+- [10] Café Amazon;
+  - บริษัท ปตท. จํากัด (มหาชน). (2554). *แบบ 56-1 สิ้นสุด 31 ธันวาคม 2554 บริษัท ปตท. จํากัด (มหาชน).* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
+  - มหาวิทยาลัยธรรมศาสตร์. (2558). *ปัจจัยที่มีผลต่อการตัดสินใจซื้อกาแฟจากร้านคาเฟ่ อเมซอน ในสถานีบริการ น้ำมัน ปตท. ของผู้บริโภคในเขตกรุงเทพมหานครและปริมณฑล.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
+  - BrandAge Online. (2567). *Update ยอดขาย Cafe Amazon ไตรมาส 3/67.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.brandage.com/article/40901
+  - BrandAge Online. (2568). *ยอดขายท่วมๆ! Café Amazon ปิดปี 2567 ขายได้ 310 ล้านแก้ว.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.brandage.com/article/42415
+  - Instagram | prachachatonline. (2569). *ไตรมาส 2 ของปี 2569 ร้าน Cafe Amazon.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.instagram.com/p/Dbu1jm8EnXA/
+- [11] Starbucks;
+  - Statbase. (2569). *Number of Starbucks stores | Thailand.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
+  - Starbucks Coffee Company. *Find a Store.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.starbucks.co.th/th/find-a-store
 
 ---
 
