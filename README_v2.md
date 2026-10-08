@@ -321,9 +321,9 @@
 
 <a id="ref1"></a>
 ### แหล่งอ้างอิงประกอบ Overview
-- [1] COFFEEBI. (2568). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://coffeebi.com/?p=295687
-- [2] Food & Hospitality Asia (FHA). (2567). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.foodnhotelasia.com/?p=9403
-- [3] COFFEEBI. (2568). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://coffeebi.com/?p=295826
+- [1] COFFEEBI. (2568). *Global Coffee Consumption Trends 2025: Youth, Specialty, and Market Expansion Drive Growth.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://coffeebi.com/?p=295687
+- [2] Food & Hospitality Asia (FHA). (2567). *A Detailed Analysis of the Global Coffee Market.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.foodnhotelasia.com/?p=9403
+- [3] COFFEEBI. (2568). *Global Coffee Market Faces Tariff Shocks and Supply Concerns Amid Rising Prices.* สืบค้นเมื่อ 16 กันยายน 2569 จาก https://coffeebi.com/?p=295826
 - [4] Commerce News Agency (CNA). (2568). *กรมพัฒน์เผยธุรกิจกาแฟฮอต คนไทยดื่มทะลุ 340 แก้ว/คน/ปี รายย่อยลุยเปิดร้าน.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.commercenewsagency.com/news/8169
 - [5] การตลาดวันละตอน | Everyday Marketing. (2568). *PESTEL Analysis ธุรกิจร้านกาแฟ และคาเฟ่ไทยปี 2026.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://everydaymarketing.co/marketing-framework/pestel-analysis-of-coffee-shop-and-cafe-business-2026/
 
@@ -332,26 +332,26 @@
 - [6] Kaggle. (2565). *Coffee dataset.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.kaggle.com/datasets/michals22/coffee-dataset
 - [7] World Bank Group. (2568). *Population, total - Thailand.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://data.worldbank.org/indicator/SP.POP.TOTL?locations=TH
 - [8] IndexMundi;
-  - IndexMundi. *Green Coffee Bean Imports by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
-  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
-  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
-  - IndexMundi. *European Union (EU-27) Green Coffee Bean Imports by Year.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
-  - IndexMundi. *Green Coffee Domestic Consumption by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
-  - IndexMundi. *Green Coffee Production by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
+  - IndexMundi. *Green Coffee Bean Imports by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports
+  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate
+  - IndexMundi. *Green Coffee Bean Imports Annual Growth Rate by Country.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=bean-imports-growth-rate&v=1
+  - IndexMundi. *European Union (EU-27) Green Coffee Bean Imports by Year.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?country=eu&commodity=green-coffee&graph=bean-imports
+  - IndexMundi. *Green Coffee Domestic Consumption by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?graph=domestic-consumption&commodity=green-coffee
+  - IndexMundi. *Green Coffee Production by Country in 1000 60 KG BAGS.* สืบค้นเมื่อ 15 กันยายน 2569 จาก https://www.indexmundi.com/agriculture/?commodity=green-coffee&graph=production
 - [9] World Bank Group. (2569). *GDP per capita (constant 2015 US$) - Thailand.* สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://data.worldbank.org/indicator/NY.GDP.PCAP.KD?locations=TH
 - [10] World Bank Group. (2569). *Urban population (% of total population) - Thailand.* สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://data.worldbank.org/indicator/SP.URB.TOTL.IN.ZS?locations=TH
 - [11] สำนักงานเศรษฐกิจการเกษตร. (2565). *สถิติการเกษตรของประเทศไทย ปี 2564 (ตารางที่ 62 และ 63).* สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://opsmoac.go.th/kanchanaburi-dwl-files-441191791054
 - [12] World Bank Group. (2569). *Commodity Markets: CMO Historical Data – Annual (The Pink Sheet).* สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://www.worldbank.org/en/research/commodity-markets
 - [13] International Coffee Organization (ICO). *Historical Data on the Global Coffee Trade.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ico.org/resources/historical-data-on-the-global-coffee-trade/
 - [14] Cafe Amazon;
-  - บริษัท ปตท. จํากัด (มหาชน). (2554). *แบบ 56-1 สิ้นสุด 31 ธันวาคม 2554 บริษัท ปตท. จํากัด (มหาชน).* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
-  - มหาวิทยาลัยธรรมศาสตร์. (2558). *ปัจจัยที่มีผลต่อการตัดสินใจซื้อกาแฟจากร้านคาเฟ่ อเมซอน ในสถานีบริการ น้ำมัน ปตท. ของผู้บริโภคในเขตกรุงเทพมหานครและปริมณฑล.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
-  - BrandAge Online. (2567). *Update ยอดขาย Cafe Amazon ไตรมาส 3/67.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.brandage.com/article/40901
-  - BrandAge Online. (2568). *ยอดขายท่วมๆ! Café Amazon ปิดปี 2567 ขายได้ 310 ล้านแก้ว.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.brandage.com/article/42415
-  - Instagram | prachachatonline. (2569). *ไตรมาส 2 ของปี 2569 ร้าน Cafe Amazon.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.instagram.com/p/Dbu1jm8EnXA/
+  - บริษัท ปตท. จํากัด (มหาชน). (2554). *แบบ 56-1 สิ้นสุด 31 ธันวาคม 2554 บริษัท ปตท. จํากัด (มหาชน).* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://ptt.listedcompany.com/misc/form561/20120531-PTT-FORM561-2011-TH-02.pdf
+  - มหาวิทยาลัยธรรมศาสตร์. (2558). *ปัจจัยที่มีผลต่อการตัดสินใจซื้อกาแฟจากร้านคาเฟ่ อเมซอน ในสถานีบริการ น้ำมัน ปตท. ของผู้บริโภคในเขตกรุงเทพมหานครและปริมณฑล.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://ethesisarchive.library.tu.ac.th/thesis/2015/TU_2015_5702030536_3568_1988.pdf
+  - BrandAge Online. (2567). *Update ยอดขาย Cafe Amazon ไตรมาส 3/67.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://www.brandage.com/article/40901
+  - BrandAge Online. (2568). *ยอดขายท่วมๆ! Café Amazon ปิดปี 2567 ขายได้ 310 ล้านแก้ว.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://www.brandage.com/article/42415
+  - Instagram | prachachatonline. (2569). *ไตรมาส 2 ของปี 2569 ร้าน Cafe Amazon.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://www.instagram.com/p/Dbu1jm8EnXA/
 - [15] Starbucks;
-  - Statbase. (2569). *Number of Starbucks stores | Thailand.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
-  - Starbucks Coffee Company. *Find a Store.* สืบค้นเมื่อ 14 กันยายน 2569 จาก https://www.starbucks.co.th/th/find-a-store
+  - Statbase. (2569). *Number of Starbucks stores | Thailand.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://statbase.org/data/tha-number-of-starbucks-coffeeshops/
+  - Starbucks Coffee Company. *Find a Store.* สืบค้นเมื่อ 17 กันยายน 2569 จาก https://www.starbucks.co.th/th/find-a-store
 
 <a id="ref3"></a>
 ### แหล่งอ้างอิงประกอบบทความ
@@ -360,7 +360,7 @@
 - [18] Marketeer. (2565). *20 ปี “คาเฟ่ อเมซอน” ให้ทุกวันของทุกคนเป็นวันที่ดีและพิเศษกว่าเดิม.* สืบค้นเมื่อ 5 ตุลาคม 2569 จาก https://marketeeronline.co/archives/275499
 - [19] MARKETING OOPS!. (2561). *3 เหตุผลเบื้องลึก “Starbucks” รุกขยายสาขาจากศูนย์การค้า-คอมมูนิตี้มอลล์ สู่ “ปั๊มน้ำมัน”.* สืบค้นเมื่อ 5 ตุลาคม 2569 จาก https://www.marketingoops.com/news/biz-news/starbucks-market-penetration-strategy/
 - [20] MARKETING OOPS!. (2561). *เทียบฟอร์ม!! คาเฟ่ อเมซอน VS สตาร์บัคส์ ศึกชิงตลาดกาแฟ 3 หมื่นล้าน.* สืบค้นเมื่อ 5 ตุลาคม 2569 จาก https://www.marketingoops.com/news/biz-news/cafe-amazon-2/
-- [21] ทิพยา ไกรทอง, ปานหทัย นพชินวงศ์, วีรา คล้ายพุก, โกเมศ สัตยาวุธ และสุภัทรา เลิศวัฒนเกียรติ. *การศึกษาลักษณะเฉพาะของกาแฟโรบัสตา.* ศูนย์วิจัยพืชสวนชุมพร กรมวิชาการเกษตร. สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://www.doa.go.th/plan/wp-content/uploads/2021/05/2172การศึกษาลักษณะเฉพาะของกาแฟโรบัสตา.pdf
+- [21] ทิพยา ไกรทอง, ปานหทัย นพชินวงศ์, วีรา คล้ายพุก, โกเมศ สัตยาวุธ และสุภัทรา เลิศวัฒนเกียรติ. (2021). *การศึกษาลักษณะเฉพาะของกาแฟโรบัสตา.* ศูนย์วิจัยพืชสวนชุมพร กรมวิชาการเกษตร. สืบค้นเมื่อ 8 ตุลาคม 2569 จาก https://www.doa.go.th/plan/wp-content/uploads/2021/05/2172การศึกษาลักษณะเฉพาะของกาแฟโรบัสตา.pdf
 
 ---
 
